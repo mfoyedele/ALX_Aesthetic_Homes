@@ -13,7 +13,7 @@ const CartButton = () => {
         Cart
         <span className='cart-container'>
           <FaShoppingCart />
-          <span className='cart-value'></span>
+          <span className='cart-value'>12</span>
         </span>
       </Link>
       
