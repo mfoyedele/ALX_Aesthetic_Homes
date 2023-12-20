@@ -84,13 +84,13 @@ components/Hero.js
   --clr-primary-3: #4338ca;
   --clr-primary-4: #4f46e5;
   /* primary/main color */
-  --clr-primary-5: #6366f1;
+  --clr-primary-5: #451a03;
   /* lighter shades of primary color */
-  --clr-primary-6: #818cf8;
-  --clr-primary-7: #93c5fd;
-  --clr-primary-8: #bfdbfe;
-  --clr-primary-9: #dbeafe;
-  --clr-primary-10: #eff6ff;
+  --clr-primary-6: #78350f;
+  --clr-primary-7: #92400e;
+  --clr-primary-8: #b45309;
+  --clr-primary-9: #d97706;
+  --clr-primary-10: #f59e0b;
   /* SLATE */
   /* darkest grey - used for headings */
   --clr-grey-1: #0f172a;
