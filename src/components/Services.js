@@ -1,21 +1,29 @@
 import React from 'react'
 import styled from 'styled-components'
 // import { services } from '../utils/constants'
+import { GiDiamondHard } from "react-icons/gi";
+import { MdOutlineHistoryEdu } from "react-icons/md";
+import { GiDiamondTrophy } from "react-icons/gi";
+
+
 const service = [
   {
     id: 1,
+    icon: <GiDiamondTrophy />,
     title: 'mission',
     text: 'At Aesthetic Homes, our mission is to inspire and empower individuals to create homes that reflect their unique style and personality. We strive to curate a diverse range of high-quality dinnerware and furniture, fostering a seamless fusion of aesthetics and functionality. With a commitment to excellence, we aim to elevate everyday living and transform houses into true reflections of individuality and taste.'
   },
   {
     id: 2,
+    icon: <GiDiamondHard />,
     title: 'vision',
     text: 'As we look to the future, Aesthetic Homes envisions becoming the go-to destination for those seeking unparalleled home aesthetics. We aspire to continuously innovate and expand our curated collections, setting new standards for quality and design in the houseware industry. Our vision is to be a trusted source that empowers customers to express themselves through thoughtfully curated and meticulously crafted home essentials.'
   },
 {
     id: 3,
+    icon: <MdOutlineHistoryEdu />,
     title: 'history',
-    text: 'Founded five years ago, Aesthetic Homes emerged from a passion for creating living spaces that resonate with personal style. Since our inception, we have been dedicated to sourcing and curating the finest dinnerware and furniture, establishing ourselves as a beacon of taste and quality. Over the years, we have grown from a vision into a thriving platform, connecting with individuals who share our appreciation for the art of home aesthetics. As we celebrate our five-year milestone, we remain committed to evolving and redefining the standards of elegance in homes around the world.'
+    text: 'Founded five years ago, Aesthetic Homes emerged from a passion for creating living spaces that resonate with personal style. Since our inception, we have been dedicated to sourcing and curating the finest dinnerware and furniture, establishing ourselves as a beacon of taste and quality. Over the years, we have grown from a vision into a thriving platform, connecting with individuals who share our appreciation for the art of home aesthetics.'
   }
 ]
 const Services = () => {
@@ -27,9 +35,7 @@ const Services = () => {
             custom furniture <br /> built only for you
           </h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-            dolorum debitis consectetur reprehenderit non aliquam voluptates
-            dolore aut vero consequuntur.
+            Rooted in a passion for harmonizing style with functionality, we have curated a collection of exceptional dinnerware and furniture that embody the essence of individuality. 
           </p>
         </article>
         <div className='services-center'>
