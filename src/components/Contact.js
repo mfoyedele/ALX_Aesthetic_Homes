@@ -7,9 +7,7 @@ const Contact = () => {
         <h3>Join our newsletter and get 20% off</h3>
         <div className='content'>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
-            sint unde quaerat ratione soluta veniam provident adipisci cumque
-            eveniet tempore?
+            Stay connected with Aesthetic Homes and elevate your home experience. Sign up for our newsletter today to unlock an exclusive 20% off your next purchase. 
           </p>
           <form className='contact-form'
           action="https://formspree.io/f/xwkdgrdg"

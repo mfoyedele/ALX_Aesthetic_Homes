@@ -14,16 +14,11 @@ const AboutPage = () => {
             <div className='underline'></div>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat
-            accusantium sapiente tempora sed dolore esse deserunt eaque
-            excepturi, delectus error accusamus vel eligendi, omnis beatae.
-            Quisquam, dicta. Eos quod quisquam esse recusandae vitae neque
-            dolore, obcaecati incidunt sequi blanditiis est exercitationem
-            molestiae delectus saepe odio eligendi modi porro eaque in libero
-            minus unde sapiente consectetur architecto. Ullam rerum, nemo iste
-            ex, eaque perspiciatis nisi, eum totam velit saepe sed quos
-            similique amet. Ex, voluptate accusamus nesciunt totam vitae esse
-            iste.
+            At Aesthetic Homes, our story is one of passion, vision, and a deep appreciation for the art of transforming living spaces. Founded five years ago, our journey began with the belief that a home should be a reflection of individual style. From the outset, we dedicated ourselves to curating a collection of exceptional dinnerware and furniture, meticulously chosen for their ability to seamlessly blend aesthetics and functionality.
+
+Over the years, Aesthetic Homes has evolved into a destination for those seeking unparalleled elegance in their homes. Our commitment to quality and timeless design has shaped our identity, and our curated selections have found their way into homes where personal style is celebrated.
+
+As we mark our five-year milestone, our story continues to unfold with a dedication to inspire and empower individuals in their pursuit of creating homes that resonate with their unique essence. Join us on this journey, where each piece tells a story, and every home becomes a canvas for self-expression. Aesthetic Homes – where style meets substance, and your story becomes part of ours.
           </p>
         </article>
       </Wrapper>
