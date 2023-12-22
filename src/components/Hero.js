@@ -8,14 +8,11 @@ const Hero = () => {
     <Wrapper className='section-center'>
       <article className='content'>
         <h1>
-          design your <br />
+          make your home a <br />
           comfort zone
         </h1>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iusto, at
-          sed omnis corporis doloremque possimus velit! Repudiandae nisi odit,
-          aperiam odio ducimus, obcaecati libero et quia tempora excepturi quis
-          alias?
+          Transform your living spaces into havens of style and comfort with Aesthetic Homes. From exquisite dinnerware that sets the perfect table to visionary furniture that elevates your interiors, we curate a collection of timeless pieces that blend functionality with aesthetics. Uncover the extraordinary, shop Aesthetic Homes now and bring unparalleled charm to every corner of your home.
         </p>
         <Link to='/products' className='btn hero-btn'>
           shop now
