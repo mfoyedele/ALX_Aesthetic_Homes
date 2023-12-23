@@ -8,8 +8,8 @@ const Hero = () => {
     <Wrapper className='section-center'>
       <article className='content'>
         <h1>
-          make your home a <br />
-          comfort zone
+          make your home <br />
+          a comfort zone
         </h1>
         <p>
           Transform your living spaces into havens of style and comfort with Aesthetic Homes. From exquisite dinnerware that sets the perfect table to visionary furniture that elevates your interiors, we curate a collection of timeless pieces that blend functionality with aesthetics. Uncover the extraordinary, shop Aesthetic Homes now and bring unparalleled charm to every corner of your home.
