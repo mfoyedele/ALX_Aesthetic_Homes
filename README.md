@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Aesthetic Homes is an e-commerce platform that facilitates the buying and selling of beautiful home furnitures over the internet.
+Aesthetic Homes is an e-commerce platform that facilitates the buying and selling of beautiful home furniture over the internet.
 
 Open https://alx-aesthetichomes.netlify.app with your browser to see the above-deployed site.
 
