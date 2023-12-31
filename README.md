@@ -1,6 +1,6 @@
 ﻿# Aesthetic Homes
 
-![alt text](https://github.com/mfoyedele/eazy-image-comprsor/blob/main/assets/eazy_image_sample.png?raw=true)
+![alt text](https://github.com/mfoyedele/eazy-image-comprsor/blob/main/assets/alx-aesthetic_homes_hero.png?raw=true)
 
 ## Introduction
 
