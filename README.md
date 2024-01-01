@@ -48,6 +48,14 @@ Rationale: [Explain the necessity or benefits of this modification]
 
 Related Issues: [Include any associated issues or pull requests]
 
+### Technology Stack
+
+- React
+- Axios
+- Formspree
+- Netlify cli
+- Styled-components
+
 ## Authors
 
 Oyedele Musa Funso - [LinkedIn](https://www.linkedin.com/in/musa-funso-oyedele-14b262195/) / [Twitter](https://twitter.com/realfunso)
