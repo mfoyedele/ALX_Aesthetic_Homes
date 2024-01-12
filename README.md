@@ -54,6 +54,7 @@ Related Issues: [Include any associated issues or pull requests]
 - Axios
 - Formspree
 - Netlify cli
+- Auth0
 - Styled-components
 
 ## Authors
